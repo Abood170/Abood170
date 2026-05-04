@@ -29,7 +29,7 @@
 const abdallah: Developer = {
   name:        "Abdallah Odeh",
   username:    "Abood170",
-  location:    "Palestine 🇵🇸",
+  location:    "Jordan jo",
   education:   "Philadelphia University",
   role:        "Full-Stack & Backend Developer",
   passion:     "Building products that solve real problems",
