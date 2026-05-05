@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Abood170/Abood170/main/banner__1_.png" width="100%" alt="Abdallah Odeh Banner"/>
+</div>
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abdallah%20Odeh&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20%26%20Backend%20Developer&descAlignY=55&descColor=fff&descSize=20" />
 
