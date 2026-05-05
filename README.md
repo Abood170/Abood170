@@ -3,13 +3,21 @@
 </div>
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abdallah%20Odeh&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20%26%20Backend%20Developer&descAlignY=55&descColor=fff&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Abdallah%20Odeh&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=42&desc=Full-Stack%20%26%20Backend%20Developer&descAlignY=60&descColor=fff&descSize=24" />
 
 </div>
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I'm+Abdallah+Odeh!;💻+Full-Stack+%26+Backend+Developer;🚀+Building+Cool+Projects;🌱+Always+Learning+New+Things)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Available for Opportunities](https://img.shields.io/badge/💼%20Available%20for%20Opportunities-2ea44f?style=for-the-badge)
 
 </div>
 
