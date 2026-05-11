@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Abood170/Abood170/main/banner__1_.png" width="100%" alt="Abdallah Odeh Banner"/>
+  <img src="https://raw.githubusercontent.com/Abood170/Abood170/main/banner_1_.png" width="100%" alt="Abdallah Odeh Banner"/>
 </div>
 <div align="center">
 
@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I'm+Abdallah+Odeh!;💻+Full-Stack+%26+Backend+Developer;🚀+Building+Cool+Projects;🌱+Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I'm+Abdallah+Odeh!;💻+Full-Stack+%26+Backend+Developer;☕+Java+%7C+Spring+Boot+%7C+Next.js;🤖+Building+AI-Powered+Apps;🌱+Always+Learning+New+Things)](https://git.io/typing-svg)
 
 </div>
 
@@ -73,11 +73,10 @@ const abdallah: Developer = {
 
 ### ⚙️ Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🗄️ Databases
@@ -129,29 +128,31 @@ const abdallah: Developer = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🚀 orion-space</h3>
+      <h3 align="center">📋 ProjectFlow</h3>
       <p align="center">
-        <a href="https://github.com/Abood170/orion-space">
+        <a href="https://github.com/Abood170/ProjectFlow">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p align="center">Interactive 3D solar system explorer built with Next.js, Three.js & Framer Motion.</p>
+      <p align="center">Full-stack project management tool with Kanban boards, team collaboration, real-time activity tracking, global search, and a beautiful dark UI.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔒 secure-gallery</h3>
+      <h3 align="center">📝 blog-platform-api</h3>
       <p align="center">
-        <a href="https://github.com/Abood170/secure-gallery">
+        <a href="https://github.com/Abood170/blog-platform-api">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p align="center">End-to-end encrypted photo gallery with secure sharing. Flutter Web + Android and Node.js backend.</p>
+      <p align="center">RESTful Blog Platform API with Spring Boot 3, JWT authentication, role-based access (Admin, Author, Reader), and full CRUD for posts and comments.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
       </p>
     </td>
   </tr>
